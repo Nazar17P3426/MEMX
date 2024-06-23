@@ -1,2 +1,2 @@
-# MEMX-Pack
-Safe and Unsafe Malware 32bit and 64bit malware
+# MEMX
+C++ skidded GDI trojan by Hugopako, password: 25
